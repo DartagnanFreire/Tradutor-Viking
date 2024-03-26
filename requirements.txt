@@ -15,16 +15,6 @@ certifi==2023.11.17
 cffi==1.16.0
 chardet==5.2.0
 charset-normalizer==2.1.1
-cli-artifacts==1.6.6
-cli-code-quality==1.0.4
-cli-dla==1.2.2
-cli-i18n==1.0.11
-cli-load-shedding==0.2.1
-cli-performance==1.10.6
-cli-ratelimit==0.8.0
-cli-sandbox==1.2.10
-cli-scm==1.0.12
-cli-services==1.19.11
 click==8.1.7
 click-plugins==1.1.1
 click-spinner==0.1.10
